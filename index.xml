@@ -6,19 +6,10 @@
     <description>Recent content on Mai Hoang Duc</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Fri, 08 Feb 2019 16:06:03 +0900</lastBuildDate>
+    <lastBuildDate>Fri, 08 Feb 2019 00:10:05 +0900</lastBuildDate>
     
 	<atom:link href="https://hoangduc1248.github.io/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title>Fukuoka&#39;s trip</title>
-      <link>https://hoangduc1248.github.io/blog/2019-02/fukuokas-trip/</link>
-      <pubDate>Fri, 08 Feb 2019 16:06:03 +0900</pubDate>
-      
-      <guid>https://hoangduc1248.github.io/blog/2019-02/fukuokas-trip/</guid>
-      <description>Hello this is a content</description>
-    </item>
     
     <item>
       <title>This is a test</title>
@@ -27,6 +18,15 @@
       
       <guid>https://hoangduc1248.github.io/blog/2019-02/this-is-a-test/</guid>
       <description>hello this is a test the image</description>
+    </item>
+    
+    <item>
+      <title>Fukuoka&#39;s trip</title>
+      <link>https://hoangduc1248.github.io/blog/2018-09/fukuokas-trip/</link>
+      <pubDate>Wed, 19 Sep 2018 16:06:03 +0900</pubDate>
+      
+      <guid>https://hoangduc1248.github.io/blog/2018-09/fukuokas-trip/</guid>
+      <description>Hello this is a content</description>
     </item>
     
     <item>
