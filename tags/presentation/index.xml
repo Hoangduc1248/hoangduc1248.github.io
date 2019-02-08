@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presentation on Mai Hoang Duc</title>
+    <link>https://hoangduc1248.github.io/tags/presentation/</link>
+    <description>Recent content in Presentation on Mai Hoang Duc</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 19 Sep 2018 16:06:03 +0900</lastBuildDate>
+    
+	<atom:link href="https://hoangduc1248.github.io/tags/presentation/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Fukuoka&#39;s trip</title>
+      <link>https://hoangduc1248.github.io/blog/2018-09/fukuokas-trip/</link>
+      <pubDate>Wed, 19 Sep 2018 16:06:03 +0900</pubDate>
+      
+      <guid>https://hoangduc1248.github.io/blog/2018-09/fukuokas-trip/</guid>
+      <description>Hello this is a content</description>
+    </item>
+    
+    <item>
+      <title>Sendai&#39;s trip</title>
+      <link>https://hoangduc1248.github.io/blog/2018-09/sendais-trip/</link>
+      <pubDate>Sat, 15 Sep 2018 16:06:03 +0900</pubDate>
+      
+      <guid>https://hoangduc1248.github.io/blog/2018-09/sendais-trip/</guid>
+      <description>Hello every one! Today I will talk about my very first trip to attend a conference. Me and my senior at the beginning of the conference: In this conference I met a very talent girl and boy from Ho Chi Minh and a very humor friend from Yokohama
+the news about VJSE</description>
+    </item>
+    
+  </channel>
+</rss>
