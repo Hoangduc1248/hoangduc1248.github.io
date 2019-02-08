@@ -34,6 +34,12 @@
   </url>
   
   <url>
+    <loc>https://hoangduc1248.github.io/series/book/</loc>
+    <lastmod>2019-02-08T00:10:05+09:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://hoangduc1248.github.io/categories/</loc>
     <priority>0</priority>
   </url>
@@ -58,6 +64,7 @@
   
   <url>
     <loc>https://hoangduc1248.github.io/series/</loc>
+    <lastmod>2019-02-08T00:10:05+09:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -69,12 +76,6 @@
   
   <url>
     <loc>https://hoangduc1248.github.io/categories/test/</loc>
-    <lastmod>2019-02-08T00:10:05+09:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://hoangduc1248.github.io/series/test1/</loc>
     <lastmod>2019-02-08T00:10:05+09:00</lastmod>
     <priority>0</priority>
   </url>
